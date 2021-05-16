@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1589502897 source:c:\users\tecnoset\desktop\proyectos\tp2\utn.c
+
+1621120522 source:c:\users\tecnoset\desktop\proyectos\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1621120426 c:\users\tecnoset\desktop\proyectos\tp2\arrayemployees.h
+
+1621120945 source:c:\users\tecnoset\desktop\proyectos\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"DataWareHouse.h"
+
+1621118149 c:\users\tecnoset\desktop\proyectos\tp2\datawarehouse.h
+
+1621124078 source:c:\users\tecnoset\desktop\tp2 salcedo\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"DataWareHouse.h"
+
+1621120426 c:\users\tecnoset\desktop\tp2 salcedo\arrayemployees.h
+
+1621118149 c:\users\tecnoset\desktop\tp2 salcedo\datawarehouse.h
+
+1621124260 source:c:\users\tecnoset\desktop\tp2 salcedo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
