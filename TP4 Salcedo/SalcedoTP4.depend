@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1624829588 source:c:\users\tecnoset\desktop\proyectos\salcedotp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"utn.h"
+	"Employee.h"
+
+1560446930 c:\users\tecnoset\desktop\proyectos\salcedotp4\linkedlist.h
+
+1624306408 c:\users\tecnoset\desktop\proyectos\salcedotp4\parser.h
+
+1624306363 c:\users\tecnoset\desktop\proyectos\salcedotp4\utn.h
+
+1624306363 c:\users\tecnoset\desktop\proyectos\salcedotp4\employee.h
+
+1624306363 source:c:\users\tecnoset\desktop\proyectos\salcedotp4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1625342091 source:c:\users\tecnoset\desktop\proyectos\salcedotp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1624830597 source:c:\users\tecnoset\desktop\proyectos\salcedotp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1624306363 source:c:\users\tecnoset\desktop\proyectos\salcedotp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1624306363 c:\users\tecnoset\desktop\proyectos\salcedotp4\controller.h
+	"Employee.h"
+
+1624306363 source:c:\users\tecnoset\desktop\proyectos\salcedotp4\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1625347730 source:c:\users\pc\desktop\proyectosact\salcedotp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"utn.h"
+	"Employee.h"
+
+1625348248 c:\users\pc\desktop\proyectosact\salcedotp4\linkedlist.h
+
+1625345501 c:\users\pc\desktop\proyectosact\salcedotp4\parser.h
+
+1625345501 c:\users\pc\desktop\proyectosact\salcedotp4\utn.h
+
+1625348114 c:\users\pc\desktop\proyectosact\salcedotp4\employee.h
+
+1625347273 source:c:\users\pc\desktop\proyectosact\salcedotp4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1625348224 source:c:\users\pc\desktop\proyectosact\salcedotp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1625347730 c:\users\pc\desktop\proyectosact\salcedotp4\controller.h
+	"Employee.h"
+
+1625345501 source:c:\users\pc\desktop\proyectosact\salcedotp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1625345501 source:c:\users\pc\desktop\proyectosact\salcedotp4\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1625347408 source:c:\users\pc\desktop\proyectosact\salcedotp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625347730 source:c:\users\pc\desktop\salcedotp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"utn.h"
+	"Employee.h"
+
+1625348248 c:\users\pc\desktop\salcedotp4\linkedlist.h
+
+1625345501 c:\users\pc\desktop\salcedotp4\parser.h
+
+1625345501 c:\users\pc\desktop\salcedotp4\utn.h
+
+1625348114 c:\users\pc\desktop\salcedotp4\employee.h
+
+1625347273 source:c:\users\pc\desktop\salcedotp4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1625347408 source:c:\users\pc\desktop\salcedotp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625348342 source:c:\users\pc\desktop\salcedotp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1625347730 c:\users\pc\desktop\salcedotp4\controller.h
+	"Employee.h"
+
+1625345501 source:c:\users\pc\desktop\salcedotp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1625345501 source:c:\users\pc\desktop\salcedotp4\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
